@@ -9,16 +9,21 @@ profile:
   image: prof_pic.jpg
   address: >
 
-news: true
 social: true
 ---
 
-I'm a PhD student at Universidad Rey Juan Carlos, Madrid, researching artificial intelligence.
+I'm a first-year PhD student at Universidad Rey Juan Carlos, Madrid, researching artificial intelligence and robotics.
+I obtained an Informatics Engineering and Software Engineering Dual Degree at Universidad Rey Juan Carlos and a 
+MSc in Artificial Intelligence at Universidad Politécnica de Madrid with a José Cuena award.
 
+The projects that I'm working on at the moment can be found openly in my [GitHub account](https://github.com/sergiopaniego).
 
+In addition to research, I also help teaching two courses for third-year students at uni related with my research interests. 
+More info in [teaching section](/teaching). I have also given some [talks](/bio_cv) about my work.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I have participated in [Google Summer of Code](https://summerofcode.withgoogle.com/) program three years in a row. 
+The first one in [2018](https://jderobot.github.io/activities/gsoc/2018) as a Student Intern working with [JdeRobot Robotics and Artificial Intelligence association](https://jderobot.github.io/) and 
+the two following as a mentor in two artificial intelligence related projects, [Detection Studio](https://github.com/JdeRobot/DetectionStudio)
+ and [Behavior Studio](https://github.com/JdeRobot/BehaviorStudio) with the same association, where I still collaborate.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For more information about me visit the [bio and cv section](/bio_cv).
