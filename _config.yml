@@ -10,7 +10,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url:  # the base hostname & protocol for your site
-baseurl: / # the subpath of your site, e.g. /blog/
+baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
@@ -37,6 +37,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 github_username: sergiopaniego
 twitter_username: sergiopaniego
 linkedin_username: sergio-paniego-blanco
+instagram_username: sergiopaniego
 scholar_userid: # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
