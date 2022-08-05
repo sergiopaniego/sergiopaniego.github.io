@@ -112,7 +112,8 @@ plugins:
 
 scholar:
 
-  last_name: Einstein
+  last_name: Paniego
+  first_name: [Sergio]
 
   style: apa
   locale: en
