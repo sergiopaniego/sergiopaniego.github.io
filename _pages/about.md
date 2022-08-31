@@ -17,7 +17,7 @@ MSc in Artificial Intelligence at Universidad Polit√©cnica de Madrid with a Jos√
 
 The projects I'm working on at the moment can be found openly in my [GitHub account](https://github.com/sergiopaniego).
 
-In addition to research, I'm also a teaching assistant for two courses (Artificial Intelligence and Robotics) for third-year students at the same uni related with my research interests. 
+In addition to research, I'm also a teaching assistant for two courses (Artificial Intelligence and Robotics) for third-year students at the asame uni related with my research interests. 
 More info about it in [teaching section](/teaching). I have also given some [talks](/bio_cv) about my work.
 
 I have participated in [Google Summer of Code](https://summerofcode.withgoogle.com/) program five years in a row. 
@@ -27,4 +27,5 @@ the following  four as a mentor in two artificial intelligence related projects,
 
 For more information about my professional career visit the [bio and cv section](/bio_cv).
 
+One of my hobbies that I enjoy the most is [photography](https://www.instagram.com/sergiopaniego/).
 One of my hobbies that I enjoy the most is [photography](https://www.instagram.com/sergiopaniego/).
