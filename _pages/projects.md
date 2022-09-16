@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Only cool projects.
+description: Only cool projects 🤖.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
@@ -49,6 +49,11 @@ td{
             obtain metrics that shows brain performances. This project aims to test different state of the art autonomous driving solutions over a common
             simulation environment to understand them deeply.</td>
             <td markdown="span">[Code](https://github.com/JdeRobot/BehaviorStudio) | [Web](https://jderobot.github.io/BehaviorStudio/)</td>
+        </tr>
+        <tr>
+            <td markdown="span">**RL Studio**</td>
+            <td markdown="span">Platform for training different reinforcement learning algorithms for robotic applications using a full range of environments.</td>
+            <td markdown="span">[Code](https://github.com/JdeRobot/RL-Studio) | [Web](https://jderobot.github.io/RL-Studio/)</td>
         </tr>
         <tr>
             <td markdown="span">**Detection Studio**</td>
