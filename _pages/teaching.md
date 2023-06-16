@@ -60,6 +60,8 @@ hr {
     </tbody>
 </table>
 
+<hr/>
+
 <h3>Couses:</h3>
 
 <table>
@@ -75,16 +77,45 @@ hr {
     </thead>
     <tbody>
         <tr>
-            <td markdown="span">**Object detection and segmentation with Tensorflow**</td>
+            <td markdown="span">[**Object detection and segmentation with Tensorflow**](https://platzi.com/cursos/tensorflow-objetos/)</td>
             <td markdown="span">[Platzi](https://platzi.com/)</td>
         </tr>
     </tbody>
 </table>
 
+<hr/>
+
+<h3>Selected talks:</h3>
+
+<table>
+    <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+    </colgroup>
+    <thead>
+        <tr class="header">
+            <th><h4>Talk name</h4></th>
+            <th><h4>Where</h4></th>
+            <th><h4>When</h4></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span">**Vision based end-to-end autonomous driving via imitation learning**</td>
+            <td markdown="span">Master in Artificial Vision, URJC</td>
+            <td markdown="span">March 2023</td>
+        </tr>
+        <tr>
+            <td markdown="span">**RL-Studio: A Tool for Reinforcement Learning Methods in Robotics**</td>
+            <td markdown="span">ROBOT 2022, Zaragoza</td>
+            <td markdown="span">November 2022</td>
+        </tr>
+    </tbody>
+</table>
 
 <hr/>
 
-<h4>Previous experience:</h4>
+<h3>Previous teaching experience:</h3>
 
 <table>
     <colgroup>
