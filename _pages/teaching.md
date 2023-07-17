@@ -113,6 +113,30 @@ hr {
     </tbody>
 </table>
 
+<h3>Master thesis directed:</h3>
+
+<table>
+    <colgroup>
+        <col width="50%" />
+        <col width="50%" />
+    </colgroup>
+    <thead>
+        <tr class="header">
+            <th><h4>Thesis name</h4></th>
+            <th><h4>Student</h4></th>
+            <th><h4>When</h4></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span">[**Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo (Autonomous driving in traffic using end-to-end deep learning)**](../assets/pdf/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023.pdf)</td>
+            <td markdown="span">Enrique Y. Shinohara Soto</td>
+            <td markdown="span">Master in Artificial Vision, URJC, 2022-2023</td>
+        </tr>
+    </tbody>
+</table>
+
+
 <hr/>
 
 <h3>Previous teaching experience:</h3>
