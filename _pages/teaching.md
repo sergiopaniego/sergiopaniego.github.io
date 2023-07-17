@@ -129,17 +129,9 @@ hr {
     </thead>
     <tbody>
         <tr>
-            <td markdown="span">[**Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo (Autonomous driving in traffic using end-to-end deep learning)**](/assets/pdf/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023.pdf)</td>
+            <td markdown="span">[**Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo (Autonomous driving in traffic using end-to-end deep learning)**](https://gsyc.urjc.es/jmplaza/students/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023.pdf)</td>
             <td markdown="span">Enrique Y. Shinohara Soto</td>
             <td markdown="span">Master in Artificial Vision, URJC, 2022-2023</td>
-        </tr>
-        <tr>
-            <td markdown="span">[**Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo (Autonomous driving in traffic using end-to-end deep learning)**](/assets/pdf/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023_compressed.pdf)</td>
-            <td markdown="span">Enrique Y. Shinohara Soto</td>
-            <td markdown="span">Master in Artificial Vision, URJC, 2022-2023</td>
-            <td markdown="span">
-                        <a href="https://github.com/sergiopaniego/sergiopaniego.github.io/raw/master/assets/pdf/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023.pdf" target="_blank">PDF.</a>
-            </td>
         </tr>
     </tbody>
 </table>
