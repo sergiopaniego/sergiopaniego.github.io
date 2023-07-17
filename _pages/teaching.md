@@ -129,7 +129,7 @@ hr {
     </thead>
     <tbody>
         <tr>
-            <td markdown="span">[**Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo (Autonomous driving in traffic using end-to-end deep learning)**](../assets/pdf/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023.pdf)</td>
+            <td markdown="span">[**Conducción autónoma en tráfico usando aprendizaje profundo extremo a extremo (Autonomous driving in traffic using end-to-end deep learning)**](/assets/pdf/tfm-deeplearning-autonomous_driving-enrique_shinohara-2023.pdf)</td>
             <td markdown="span">Enrique Y. Shinohara Soto</td>
             <td markdown="span">Master in Artificial Vision, URJC, 2022-2023</td>
         </tr>
