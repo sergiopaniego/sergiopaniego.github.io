@@ -101,13 +101,18 @@ hr {
     </thead>
     <tbody>
         <tr>
+            <td markdown="span">**What happens when we combine video games with ChatGPT? Giving life to NPCs**</td>
+            <td markdown="span">UbuParty, Burgos</td>
+            <td markdown="span">September 2023</td>
+        </tr>
+        <tr>
             <td markdown="span">**Vision based end-to-end autonomous driving via imitation learning**</td>
             <td markdown="span">Master in Artificial Vision, URJC</td>
             <td markdown="span">March 2023</td>
         </tr>
         <tr>
             <td markdown="span">**RL-Studio: A Tool for Reinforcement Learning Methods in Robotics**</td>
-            <td markdown="span">ROBOT 2022, Zaragoza</td>
+            <td markdown="span">ROBOT 2022 Conference, Zaragoza</td>
             <td markdown="span">November 2022</td>
         </tr>
     </tbody>
