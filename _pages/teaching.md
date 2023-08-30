@@ -107,7 +107,7 @@ hr {
         </tr>
         <tr>
             <td markdown="span">**Vision based end-to-end autonomous driving via imitation learning**</td>
-            <td markdown="span">Master in Artificial Vision, URJC</td>
+            <td markdown="span">Master in Artificial Vision, URJC, Madrid</td>
             <td markdown="span">March 2023</td>
         </tr>
         <tr>
