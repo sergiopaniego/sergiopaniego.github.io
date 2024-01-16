@@ -1,6 +1,25 @@
 ---
 ---
-@InProceedings{10.1007/978-3-031-21062-4_41,
+
+@ARTICLE{Paniego2024,
+    author={Paniego, Sergio and Paliwal, Nikhil and Cañas, JoséMaría},
+    journal={IEEE Robotics and Automation Letters},
+    title={Model Optimization in Deep Learning Based Robot Control for Autonomous Driving},
+    year={2024},
+    volume={9},
+    number={1},
+    pages={715-722},
+    doi={10.1109/LRA.2023.3336244},
+    abbr = {IEE RAL - ICRA},
+    html = {https://doi.org/10.1109/LRA.2023.3336244},
+    website = {https://roboticslaburjc.github.io/publications/2023/model_optimization_in_deep_learning_based_robot_control_for_autonomous_driving},
+    code = {https://github.com/JdeRobot/DeepLearningStudio},
+    abstract = {Deep Learning (DL) has been successfully used in robotics for perception tasks and end-to-end robot control. In the context of autonomous driving, this work explores and compares a variety of alternatives for model optimization to solve the visual lane-follow application in urban scenarios with an imitation learning approach. The optimization techniques include quantization, pruning, fine-tuning (retraining), and clustering, covering all the options available at the most common DL frameworks. TensorRT optimization for specific cutting-edge hardware devices has been also explored. For the comparison, offline metrics such as mean squared error and inference time are used. In addition, the optimized models have been evaluated in an online fashion using the autonomous driving state-of-the-art simulator CARLA and an assessment tool called Behavior Metrics, which provides holistic quantitative fine-grain data about robot performance. Typically the performance of robot applications depends both on the quality of the control decisions and also on their frequency. The studied optimized models significantly increase inference frequency without losing decision quality. The impact of each optimization alone has also been measured. This speed-up allows us to successfully run DL robot-control applications even in limited computing hardware. All the work presented here is open-source, including models, weights, assessment tool, and dataset, for easy replication and extension.},
+    bibtex_show = {true}
+}
+
+
+@InProceedings{FernandezCabo2022,
     author="Fern{\'a}ndez de Cabo, Pedro
     and Lucas, Rub{\'e}n
     and Arranz, Ignacio
@@ -22,6 +41,7 @@
     abbr = {ROBOT2022},
     html = {https://link.springer.com/chapter/10.1007/978-3-031-21062-4_41},
     code = {https://github.com/JdeRobot/RL-Studio},
+    bibtex_show = {true}
 }
 
 
@@ -35,9 +55,10 @@
     abstract = {Real-time vehicle monitoring in highways, roads, and streets may provide useful data both for infrastructure planning and for traffic management in general. Even though it is a classic research area in computer vision, advances in neural networks for object detection and classification, especially in the last years, made this area even more appealing due to the effectiveness of these methods. This study presents TrafficSensor, a system that employs deep learning techniques for automatic vehicle tracking and classification on highways using a calibrated and fixed camera. A new traffic image dataset was created to train the models, which includes real traffic images in poor lightning or weather conditions and low-resolution images. The proposed system consists mainly of two modules, first one responsible of vehicle detection and classification and a second one for vehicle tracking. For the first module, several neural models were tested and objectively compared, and finally, the YOLOv3 and YOLOv4-based network trained on the new traffic dataset were selected. The second module combines a simple spatial association algorithm with a more sophisticated KLT (Kanade–Lucas–Tomasi) tracker to follow the vehicles on the road. Several experiments have been conducted on challenging traffic videos in order to validate the system with real data. Experimental results show that the proposed system is able to successfully detect, track, and classify vehicles traveling on a highway on real time.},
     abbr={CIN},
     code = {https://github.com/JdeRobot/DetectionMetrics},
+    bibtex_show = {true}
 }
 
-@misc{https://doi.org/10.48550/arxiv.2205.12124,
+@misc{PaniegoMemory2022,
     doi = {10.48550/ARXIV.2205.12124},
     url = {https://arxiv.org/abs/2205.12124},
     arxiv = {2205.12124},
@@ -51,9 +72,10 @@
     abbr = {Arxiv},
     code = {https://github.com/JdeRobot/DeepLearningStudio},
     image={/assets/img/pub_img/transformer_transform.png},
+    bibtex_show = {true}
 }
 
-@Article{s22124575,
+@Article{PaniegoOSAssessment2022,
     author = {Paniego, Sergio and Sharma, Vinay and Cañas, José María},
     title = {Open Source Assessment of Deep Learning Visual Object Detection},
     journal = {Sensors},
@@ -70,5 +92,6 @@
     abbr = {Sensors},
     code = {https://github.com/JdeRobot/DetectionMetrics},
     image={/assets/img/pub_img/transformer_transform.png},
+    bibtex_show = {true}
 }
 
