@@ -79,8 +79,8 @@ hr {
     <tbody>
         <tr>
             <td markdown="span">**Introduction to Coding**</td>
-            <td markdown="span">ISDI</td>
-            <td markdown="span">December 2023</td>
+            <td markdown="span">ISDI (DMBA, MBA)</td>
+            <td markdown="span">December 2023 - </td>
         </tr>
         <tr>
             <td markdown="span">**Introduction to Artificial Intelligence**</td>
