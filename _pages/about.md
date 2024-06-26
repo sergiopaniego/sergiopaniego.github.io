@@ -11,7 +11,7 @@ profile:
 social: true
 ---
 
-I'm a PhD candidate at [Universidad Rey Juan Carlos](https://www.urjc.es/), Madrid, researching artificial intelligence, computer vision and robotics and its application to autonomous driving.
+I hold a PhD from [Universidad Rey Juan Carlos](https://www.urjc.es/), specializing in artificial intelligence, computer vision, and robotics with a focus on their applications in autonomous driving.
 I obtained an Informatics Engineering and Software Engineering Dual Degree at Universidad Rey Juan Carlos and a 
 MSc in Artificial Intelligence at Universidad Politécnica de Madrid with a José Cuena award.
 
