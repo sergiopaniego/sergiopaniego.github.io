@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching_and_activities/
 title: teaching/talks
-description: University and non-university courses shown
+description: 
 nav: true
 nav_order: 5
 ---
