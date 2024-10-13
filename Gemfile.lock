@@ -144,7 +144,7 @@ GEM
       execjs (>= 0.3.0, < 3)
     unicode-display_width (1.8.0)
     unicode_utils (1.4.0)
-    webrick (1.7.0)
+    webrick (1.8.2)
 
 PLATFORMS
   x86_64-linux
