@@ -17,14 +17,12 @@ MSc in Artificial Intelligence at Universidad Politécnica de Madrid with a Jos�
 
 The projects I’m working on now can be found in my [GitHub account](https://github.com/sergiopaniego).
 
-In addition to research, I'm also a teaching assistant for some courses (Artificial Intelligence and Robotics) for third-year students at the same uni related to my research interests. 
-I have also developed a course for [Platzi](https://platzi.com/) platform called [Object Detection and Segmentation with Tensorflow](https://platzi.com/cursos/tensorflow-objetos/) among others ([teaching section](/teaching)).
-I also like to give [talks](/teaching) about my work and artificial intelligence in general.
+In addition to my research, I have also served as an AI Educational Consultant, developing and teaching advanced AI courses at universities, companies, and on-demand (see [teaching section](/teaching) for more details). I enjoy giving [talks](/teaching) about my work and the broader field of artificial intelligence. As a Machine Learning Engineer Consultant, I have collaborated with companies to develop and deploy cutting-edge AI technologies such as YOLOv8 and SAM.
 
 I am interested in open source. I have participated in [Google Summer of Code](https://summerofcode.withgoogle.com/) program seven years in a row. 
 The first one was in [2018](https://jderobot.github.io/activities/gsoc/2018) as a Student Intern working with [JdeRobot Robotics and Artificial Intelligence association](https://jderobot.github.io/) and 
 the following  six as a mentor in several artificial intelligence related projects, [Detection Studio](https://github.com/JdeRobot/DetectionStudio), [Behavior Studio](https://github.com/JdeRobot/BehaviorStudio) and [Deep Learning Studio](https://github.com/JdeRobot/DeepLearningStudio/) with the same association, where I still collaborate. 
-These projects and others have led to [publications](/publications). I am currently admin for this organization working on open-source project. I have participated in other open source initiatives like the [Computer Vision Course by Hugging Face community](https://github.com/johko/computer-vision-course). 
+These projects and others have led to [publications](/publications). I am currently admin for this organization working on open-source project. I have participated in other open source projects, specially with [🤗 Hugging Face](/huggingface_contributions).
 
 For more information about my professional career visit the [cv section](/cv) or my [LinkedIn page](https://www.linkedin.com/in/sergio-paniego-blanco), where I post news.
 
