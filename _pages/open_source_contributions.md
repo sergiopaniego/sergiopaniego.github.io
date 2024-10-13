@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /open_source_contributions/
-title: Open source contributions
+title: open source contributions
 description: 
 nav: true
 nav_order: 1
