@@ -9,7 +9,7 @@ nav_order: 4
 <div class="publications">
 
     <div style="text-align: center; margin:20px;">
-        <h1><a href="https://drive.google.com/file/d/16uvUBE8ck8peYhxdEOlvnKNTSGlLidrN/view?usp=sharing">PDF Link</a></h1>
+        <h1><a href="https://drive.google.com/file/d/1tSd5_ZH4s4l92aG4e5J0kqwAk_SzoGPC/view">PDF Link</a></h1>
     </div>
 </div>
 <div class="publications">
