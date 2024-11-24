@@ -7,13 +7,13 @@ nav: true
 nav_order: 1
 ---
 
-I've collaborated in several **🤗 Hugging Face** repos. Here, you can find the full list of current work, closed PRs and opened PRs in their repos. 
+I've collaborated in several **🤗 Hugging Face** repos. Here, you can find the full list of current work, closed PRs, and opened PRs in their repos. 
 
 To highlight some projects: 
 
-* I've developed 3 computer vision cookbooks, including state-of-the-art technologies like ColPali and Qwen2-VL.
-* I'm currently developing recipes related to Llama 3.2, including its deployment posibilities using TGI and how to do tool calling. 
-* I'm also currently exploring advances VLM models and how to integrate them with TRL. 
+* I've developed 4 computer vision cookbooks, including state-of-the-art technologies like ColPali and Qwen2-VL.
+* I'm currently developing recipes related to Llama 3.2, including its deployment possibilities using TGI and how to do tool calling. 
+* I'm also currently exploring advanced VLM models and how to integrate them with TRL. 
 
 ### Current work (Oct 24)
 
