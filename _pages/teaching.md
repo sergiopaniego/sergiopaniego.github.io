@@ -32,34 +32,6 @@ hr {
 }
 </style>
 
-<h3 style="font-weight: bold;">🎓Currently teaching assistant for:</h3>
-
-<table style="margin: 10%;">
-    <colgroup>
-        <col width="50%" />
-        <col width="50%" />
-    </colgroup>
-    <thead>
-        <tr class="header">
-            <th><h4>Subject</h4></th>
-            <th><h4>Where</h4></th>
-            <th><h4>When</h4></th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td markdown="span">**Artificial Intelligence**</td>
-            <td markdown="span">3rd year Robotics Software Engineering<br>Universidad Rey Juan Carlos</td>
-            <td markdown="span"><span style="font-weight: bold;">22-23</span><br>21-22<br>20-21</td>
-        </tr>
-        <tr>
-            <td markdown="span">**Robotics**</td>
-            <td markdown="span">3rd year Telematics Engineering<br>Universidad Rey Juan Carlos</td>
-            <td markdown="span"><span style="font-weight: bold;">22-23</span></td>
-        </tr>
-    </tbody>
-</table>
-
 <hr/>
 
 <h3 style="font-weight: bold;">🧑‍🎓Couses:</h3>
@@ -78,9 +50,24 @@ hr {
     </thead>
     <tbody>
         <tr>
+            <td markdown="span">**Python applications development**</td>
+            <td markdown="span">Logistics company</td>
+            <td markdown="span">November 2024</td>
+        </tr>
+        <tr>
+            <td markdown="span">**Python Scripting**</td>
+            <td markdown="span">UNED</td>
+            <td markdown="span">October 2024</td>
+        </tr>
+        <tr>
+            <td markdown="span">**Introduction to Artificial Intelligence**</td>
+            <td markdown="span">IronHack</td>
+            <td markdown="span">September 2024</td>
+        </tr>
+        <tr>
             <td markdown="span">**Introduction to Coding**</td>
             <td markdown="span">ISDI (DMBA, MBA)</td>
-            <td markdown="span">December 2023 - </td>
+            <td markdown="span">December 2023 - March 2024</td>
         </tr>
         <tr>
             <td markdown="span">**Introduction to Artificial Intelligence**</td>
@@ -122,6 +109,16 @@ hr {
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td markdown="span">**Autonomous driving**</td>
+            <td markdown="span">Robotics Software Engineering, Madrid</td>
+            <td markdown="span">November 2024</td>
+        </tr>
+        <tr>
+            <td markdown="span">**Autonomous driving**</td>
+            <td markdown="span">Robotics Software Engineering, Madrid</td>
+            <td markdown="span">November 2023</td>
+        </tr>
         <tr>
             <td markdown="span">**What happens when we combine video games with ChatGPT? Giving life to NPCs**</td>
             <td markdown="span">UbuParty, Burgos</td>
@@ -195,7 +192,7 @@ hr {
 
 <hr/>
 
-<h3  style="font-weight: bold;">🎓Previous teaching experience:</h3>
+<h3  style="font-weight: bold;">🎓Previous university teaching experience:</h3>
 
 <table style="margin: 10%;">
     <colgroup>
@@ -210,6 +207,16 @@ hr {
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td markdown="span">**Artificial Intelligence**</td>
+            <td markdown="span">3rd year Robotics Software Engineering<br>Universidad Rey Juan Carlos</td>
+            <td markdown="span"><span style="font-weight: bold;">22-23</span><br>21-22<br>20-21</td>
+        </tr>
+        <tr>
+            <td markdown="span">**Robotics**</td>
+            <td markdown="span">3rd year Telematics Engineering<br>Universidad Rey Juan Carlos</td>
+            <td markdown="span"><span style="font-weight: bold;">22-23</span></td>
+        </tr>
         <tr>
             <td markdown="span">**Modelling and Simulation of Robots**</td>
             <td markdown="span">3rd year Robotics Software Engineering<br>Universidad Rey Juan Carlos</td>

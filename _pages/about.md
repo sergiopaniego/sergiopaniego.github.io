@@ -15,7 +15,7 @@ I hold a PhD from [Universidad Rey Juan Carlos](https://www.urjc.es/) (Cum Laude
 I obtained an Informatics Engineering and Software Engineering Dual Degree at Universidad Rey Juan Carlos and a 
 MSc in Artificial Intelligence at Universidad Politécnica de Madrid with a José Cuena award.
 
-The projects I’m working on now can be found in my [GitHub account](https://github.com/sergiopaniego).
+The projects I’m working on now can be found in my [GitHub account](https://github.com/sergiopaniego) or [OSS contributions](/open_source_contributions).
 
 In addition to my research, I have also served as an AI Educational Consultant, developing and teaching advanced AI courses at universities, companies, and on-demand (see [teaching section](/teaching) for more details). I enjoy giving [talks](/teaching) about my work and the broader field of artificial intelligence. As a Machine Learning Engineer Consultant, I have collaborated with companies to develop and deploy cutting-edge AI technologies such as YOLOv8 and SAM.
 
@@ -26,6 +26,6 @@ These projects and others have led to [publications](/publications). I am curren
 
 For more information about my professional career visit the [cv section](/cv) or my [LinkedIn page](https://www.linkedin.com/in/sergio-paniego-blanco), where I post news.
 
-I am open to research collaborations, teaching courses, talks... [Drop me an email](mailto:sergiopaniegoblanco@gmail.com) to get in touch :)
+I am open to AI project consulting, research collaborations, teaching courses, talks... [Drop me an email](mailto:sergiopaniegoblanco@gmail.com) to get in touch :)
 
 One of the hobbies that I enjoy the most is [photography](https://www.instagram.com/sergiopaniego/).

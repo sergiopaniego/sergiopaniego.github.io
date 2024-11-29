@@ -1,43 +1,75 @@
 ---
 layout: page
 permalink: /open_source_contributions/
-title: open source contributions
+title: OSS contributions
 description: 
 nav: true
 nav_order: 1
 ---
 
-I've collaborated in several **🤗 Hugging Face** repos. Here, you can find the full list of current work, closed PRs, and opened PRs in their repos. 
+I've collaborated in several **🤗 Hugging Face** repos/projects. Here, you can find the full list of current work, closed PRs, and opened PRs in their repos. 
 
-To highlight some projects: 
+## Highlighted projects
 
-* I've developed 4 computer vision cookbooks, including state-of-the-art technologies like ColPali and Qwen2-VL.
-* I'm currently developing recipes related to Llama 3.2, including its deployment possibilities using TGI and how to do tool calling. 
-* I'm also currently exploring advanced VLM models and how to integrate them with TRL. 
+* Developed 5 recipes focused on cutting-edge techniques, including multimodal models (VLMs, RAGs), computer vision, and agent-based systems, featuring technologies such as ColPali/ColQwen and Qwen2-VL.
+  * **Added Multi-agent RAG system recipe 🧑‍🍳️ #238** - [https://github.com/huggingface/cookbook/pull/238](https://github.com/huggingface/cookbook/pull/238)
+  * **Added Recipe for Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL) #225** - [https://github.com/huggingface/cookbook/pull/225](https://github.com/huggingface/cookbook/pull/225)
+  * **Added Cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs) #210** — [https://github.com/huggingface/cookbook/pull/210](https://github.com/huggingface/cookbook/pull/210)
+  * **Add Notebook for Fine-Tuning Semantic Segmentation Models and Using the Inference API #201** — [https://github.com/huggingface/cookbook/pull/201](https://github.com/huggingface/cookbook/pull/201)
+  * **Object Detection Fine tuning cookbook with Deployment in Spaces, and Gradio API Integration #189** — [https://github.com/huggingface/cookbook/pull/189](https://github.com/huggingface/cookbook/pull/189)
+* Created 2 recipes for Llama 3.2, covering its deployment options with TGI and how to implement tool calling.
+  * **Tool calling recipe #84** - [https://github.com/huggingface/huggingface-llama-recipes/pull/84](https://github.com/huggingface/huggingface-llama-recipes/pull/84)
+  * **Adding Using the Text Generation Inference (TGI) with Llama Models #69** — [https://github.com/huggingface/huggingface-llama-recipes/pull/69](https://github.com/huggingface/huggingface-llama-recipes/pull/69)
+* Currently exploring advanced VLM models and their integration with TRL, with contributions already made in this area.
+  * **👁️ Added SFT support for SmolVLM models via standalone script sft_vlm_smol_vlm.py #2409** — [https://github.com/huggingface/trl/pull/2409](https://github.com/huggingface/trl/pull/2409)
 
-### Current work (Oct 24)
+I am one of the top contributors to the following repositories:
 
-**Huggingface-llama-recipes**
+* [Cookbook](https://github.com/huggingface/cookbook)
+* [Huggingface-llama-recipes](https://github.com/huggingface/huggingface-llama-recipes/)
 
-* Adding Using the Text Generation Inference (TGI) with Llama Models #69 — [https://github.com/huggingface/huggingface-llama-recipes/pull/69](https://github.com/huggingface/huggingface-llama-recipes/pull/69) 
-* Tool calling #29 — [https://github.com/huggingface/huggingface-llama-recipes/pull/29](https://github.com/huggingface/huggingface-llama-recipes/pull/29) 
+-------------------------------------------------------------
+
+### Current work (Nov 24)
+
+**Transformers**
+
+* Support for Multiple Datasets and Domain-Specific Loss Calculation in Trainer #30725 - [https://github.com/huggingface/transformers/issues/30725](https://github.com/huggingface/transformers/issues/30725)
+
+**Cookbook**
+
+* Creating a cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs), incorporating reranking techniques.
+* Developing a recipe for training [Smol VLM](https://huggingface.co/blog/smolvlm) using TRL.
 
 **TRL**
 
 * [SFT VLM] Add support for Molmo models #2136 — [https://github.com/huggingface/trl/issues/2136](https://github.com/huggingface/trl/issues/2136)
 
+-------------------------------------------------------------
+-------------------------------------------------------------
+-------------------------------------------------------------
+
+
 ### Closed PRs
 
-**Cookbooks**
+**TRL**
 
-* **Added Cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)** — [https://github.com/huggingface/cookbook/pull/210](https://github.com/huggingface/cookbook/pull/210)
+* **👁️ Added SFT support for SmolVLM models via standalone script sft_vlm_smol_vlm.py #2409** — [https://github.com/huggingface/trl/pull/2409](https://github.com/huggingface/trl/pull/2409)
+* Updated ScriptArguments warning messages #2230 - [https://github.com/huggingface/trl/pull/2230](https://github.com/huggingface/trl/pull/2230)
+
+**Cookbook**
+
+* **Added Multi-agent RAG system recipe 🧑‍🍳️ #238** - [https://github.com/huggingface/cookbook/pull/238](https://github.com/huggingface/cookbook/pull/238)
+* Updated Agentic RAG recipe #232 - [https://github.com/huggingface/cookbook/pull/232](https://github.com/huggingface/cookbook/pull/232)
+* **Added Recipe for Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL) #225** - [https://github.com/huggingface/cookbook/pull/225](https://github.com/huggingface/cookbook/pull/225)
+* **Added Cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs) #210** — [https://github.com/huggingface/cookbook/pull/210](https://github.com/huggingface/cookbook/pull/210)
 * Updated broken image link in Fine-Tuning Object Detection on a Custom Dataset... notebook #204 — [https://github.com/huggingface/cookbook/pull/204](https://github.com/huggingface/cookbook/pull/204)
-* Add Notebook for Fine-Tuning Semantic Segmentation Models and Using the Inference API #201 — [https://github.com/huggingface/cookbook/pull/201](https://github.com/huggingface/cookbook/pull/201) 
+* **Add Notebook for Fine-Tuning Semantic Segmentation Models and Using the Inference API #201** — [https://github.com/huggingface/cookbook/pull/201](https://github.com/huggingface/cookbook/pull/201) 
 * Added missing HF login cell in Agent for text-to-SQL with automatic error correction notebook #198 — [https://github.com/huggingface/cookbook/pull/198](https://github.com/huggingface/cookbook/pull/198) 
 * Updated introduction and installation instructions #196 — [https://github.com/huggingface/cookbook/pull/196](https://github.com/huggingface/cookbook/pull/196) 
 * Have several agents collaborate in a multi-agent hierarchy 🤖🤝🤖 notebook improvements #194 — [https://github.com/huggingface/cookbook/pull/194](https://github.com/huggingface/cookbook/pull/194) 
 * Removed duplicated Open in Colab button in Semantic reranking with Elasticsearch and Hugging Face #192 — [https://github.com/huggingface/cookbook/pull/192](https://github.com/huggingface/cookbook/pull/192) 
-* Object Detection Fine tuning cookbook with Deployment in Spaces, and Gradio API Integration #189 — [https://github.com/huggingface/cookbook/pull/189](https://github.com/huggingface/cookbook/pull/189)
+* **Object Detection Fine tuning cookbook with Deployment in Spaces, and Gradio API Integration #189** — [https://github.com/huggingface/cookbook/pull/189](https://github.com/huggingface/cookbook/pull/189)
 * Updated code in the notebooks in Chinese to match English versions #178 — [https://github.com/huggingface/cookbook/pull/178](https://github.com/huggingface/cookbook/pull/178) 
 * Paragraph refined in Build RAG with Hugging Face and Milvus #176 — [https://github.com/huggingface/cookbook/pull/176](https://github.com/huggingface/cookbook/pull/176) 
 * Indentation update in RAG backed by SQL and Jina Reranker v2 cookbook #174 — [https://github.com/huggingface/cookbook/pull/174](https://github.com/huggingface/cookbook/pull/174) 
@@ -59,6 +91,8 @@ To highlight some projects:
 
 **Huggingface-llama-recipes**
 
+* **Tool calling recipe #84** - [https://github.com/huggingface/huggingface-llama-recipes/pull/84](https://github.com/huggingface/huggingface-llama-recipes/pull/84)
+* **Adding Using the Text Generation Inference (TGI) with Llama Models #69** — [https://github.com/huggingface/huggingface-llama-recipes/pull/69](https://github.com/huggingface/huggingface-llama-recipes/pull/69)
 * Small punctuation update in Run Llama with AWQ notebook #12 — [https://github.com/huggingface/huggingface-llama-recipes/pull/12](https://github.com/huggingface/huggingface-llama-recipes/pull/12)
 
 **Setfit**
@@ -96,11 +130,18 @@ To highlight some projects:
 
 * Updated installation using pip in ColPali_+_Qwen2_VL.ipynb #12 — [https://github.com/merveenoyan/smol-vision/pull/12](ttps://github.com/merveenoyan/smol-vision/pull/12)
 
+-------------------------------------------------------------
+
 ### Open PRs
 
-**Huggingface-llama-recipes**
+**smolllmm**
 
-* Adding Using the Text Generation Inference (TGI) with Llama Models #69 — [https://github.com/huggingface/huggingface-llama-recipes/pull/69](https://github.com/huggingface/huggingface-llama-recipes/pull/69)
+* Updated FT notebook with small note about CUDA_VISIBLE_DEVICES #21 - [https://github.com/huggingface/smollm/pull/21](https://github.com/huggingface/smollm/pull/21)
+
+**Cookbook**
+
+* Updated multiagent notebook with HF login and solving model naming inconsistencies #234 - [https://github.com/huggingface/cookbook/pull/234](https://github.com/huggingface/cookbook/pull/234)
+* Added HF login cell to Build an agent with tool-calling superpowers 🦸 using Transformers Agents recipe #230 — [https://github.com/huggingface/cookbook/pull/230](https://github.com/huggingface/cookbook/pull/230)
 
 **Evaluate**
 
