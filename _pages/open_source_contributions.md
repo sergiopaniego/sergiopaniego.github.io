@@ -12,21 +12,21 @@ I've collaborated in several **🤗 Hugging Face** repos/projects. Here, you can
 ## Highlighted projects
 
 * Developed 5 recipes focused on cutting-edge techniques, including multimodal models (VLMs, RAGs), computer vision, and agent-based systems, featuring technologies such as ColPali/ColQwen and Qwen2-VL.
-  * **Added Multi-agent RAG system recipe 🧑‍🍳️ #238** - [https://github.com/huggingface/cookbook/pull/238](https://github.com/huggingface/cookbook/pull/238)
-  * **Added Recipe for Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL) #225** - [https://github.com/huggingface/cookbook/pull/225](https://github.com/huggingface/cookbook/pull/225)
-  * **Added Cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs) #210** — [https://github.com/huggingface/cookbook/pull/210](https://github.com/huggingface/cookbook/pull/210)
-  * **Add Notebook for Fine-Tuning Semantic Segmentation Models and Using the Inference API #201** — [https://github.com/huggingface/cookbook/pull/201](https://github.com/huggingface/cookbook/pull/201)
-  * **Object Detection Fine tuning cookbook with Deployment in Spaces, and Gradio API Integration #189** — [https://github.com/huggingface/cookbook/pull/189](https://github.com/huggingface/cookbook/pull/189)
+  * **[Multi-agent RAG System 🤖🤝🤖](https://huggingface.co/learn/cookbook/multiagent_rag_system)** - [PR](https://github.com/huggingface/cookbook/pull/238)
+  * **[Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)](https://huggingface.co/learn/cookbook/fine_tuning_vlm_trl)** - [PR](https://github.com/huggingface/cookbook/pull/225)
+  * **[Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_vlms)** — [PR](https://github.com/huggingface/cookbook/pull/210)
+  * **[Fine-Tuning a Semantic Segmentation Model on a Custom Dataset and Usage via the Inference API](https://huggingface.co/learn/cookbook/semantic_segmentation_fine_tuning_inference)** — [PR](https://github.com/huggingface/cookbook/pull/201)
+  * **[Fine-Tuning Object Detection Model on a Custom Dataset 🖼, Deployment in Spaces, and Gradio API Integration](https://huggingface.co/learn/cookbook/fine_tuning_detr_custom_dataset)** — [PR](https://github.com/huggingface/cookbook/pull/189)
 * Created 2 recipes for Llama 3.2, covering its deployment options with TGI and how to implement tool calling.
-  * **Tool calling recipe #84** - [https://github.com/huggingface/huggingface-llama-recipes/pull/84](https://github.com/huggingface/huggingface-llama-recipes/pull/84)
-  * **Adding Using the Text Generation Inference (TGI) with Llama Models #69** — [https://github.com/huggingface/huggingface-llama-recipes/pull/69](https://github.com/huggingface/huggingface-llama-recipes/pull/69)
+  * **[Tool Calling using Llama 3.2 🔧](https://github.com/huggingface/huggingface-llama-recipes/blob/main/tool_calling/tool_calling.ipynb)** - [PR](https://github.com/huggingface/huggingface-llama-recipes/pull/84)
+  * **[🦙 Using the Text Generation Inference (TGI) with Llama Models](https://github.com/huggingface/huggingface-llama-recipes/blob/main/llama_tgi_api_inference/tgi_api_inference_recipe.ipynb)** — [PR](https://github.com/huggingface/huggingface-llama-recipes/pull/69)
 * Currently exploring advanced VLM models and their integration with TRL, with contributions already made in this area.
-  * **👁️ Added SFT support for SmolVLM models via standalone script sft_vlm_smol_vlm.py #2409** — [https://github.com/huggingface/trl/pull/2409](https://github.com/huggingface/trl/pull/2409)
+  * **[👁️ Added SFT support for SmolVLM models via standalone script sft_vlm_smol_vlm.py](https://github.com/huggingface/trl/blob/main/examples/scripts/sft_vlm_smol_vlm.py)** — [PR](https://github.com/huggingface/trl/pull/2409)
 
 I am one of the top contributors to the following repositories:
 
-* [Cookbook](https://github.com/huggingface/cookbook)
-* [Huggingface-llama-recipes](https://github.com/huggingface/huggingface-llama-recipes/)
+* **[Cookbook](https://github.com/huggingface/cookbook)**
+* **[Huggingface-llama-recipes](https://github.com/huggingface/huggingface-llama-recipes/)**
 
 -------------------------------------------------------------
 
@@ -34,16 +34,16 @@ I am one of the top contributors to the following repositories:
 
 **Transformers**
 
-* Support for Multiple Datasets and Domain-Specific Loss Calculation in Trainer #30725 - [https://github.com/huggingface/transformers/issues/30725](https://github.com/huggingface/transformers/issues/30725)
+* **Support for Multiple Datasets and Domain-Specific Loss Calculation in Trainer #30725** - [PR](https://github.com/huggingface/transformers/issues/30725)
 
 **Cookbook**
 
-* Creating a cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs), incorporating reranking techniques.
-* Developing a recipe for training [Smol VLM](https://huggingface.co/blog/smolvlm) using TRL.
+* **Creating a cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs), incorporating reranking techniques.**
+* **Developing a recipe for training [Smol VLM](https://huggingface.co/blog/smolvlm) using TRL.**
 
 **TRL**
 
-* [SFT VLM] Add support for Molmo models #2136 — [https://github.com/huggingface/trl/issues/2136](https://github.com/huggingface/trl/issues/2136)
+* **[SFT VLM] Add support for Molmo models #2136 — [PR](https://github.com/huggingface/trl/issues/2136)**
 
 -------------------------------------------------------------
 -------------------------------------------------------------
