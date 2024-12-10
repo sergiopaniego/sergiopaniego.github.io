@@ -15,7 +15,7 @@ nav_order: 4
 <div class="publications">
     <h3 style="font-weight: bold;">📷Some pictures about my work:</h3>
     <div style="text-align: center; margin:20px;">
-        <img width="100%" src="/assets/img/AD_GIRS_presentation_2024.jpeg">
+        <img width="100%" src="/assets/img/AD_GIRS_presentation_2024.jpg">
         <p>Giving a talk about state-of-the-art autonomous driving for GIRS students, Nov 2024 Madrid</p>
 
         <img width="100%" src="/assets/img/IES_Europa_1.jpeg">
