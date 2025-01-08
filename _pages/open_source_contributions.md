@@ -11,7 +11,13 @@ I've collaborated in several **🤗 Hugging Face** repos/projects. Here, you can
 
 ## Highlighted projects
 
-* Developed 5 recipes focused on cutting-edge techniques, including multimodal models (VLMs, RAGs), computer vision, and agent-based systems, featuring technologies such as ColPali/ColQwen and Qwen2-VL.
+* Developed 10 recipes focused on cutting-edge techniques, including multimodal models (VLMs, RAGs), computer vision, and agent-based systems, featuring technologies such as ColPali/ColQwen and Qwen2-VL.
+
+  * **[Scaling Test-Time Compute for Longer Thinking in LLMs](https://huggingface.co/learn/cookbook/search_and_learn)** - [PR](https://github.com/huggingface/cookbook/pull/262)
+  * **[Fine-tuning SmolVLM using direct preference optimization (DPO) with TRL on a consumer GPU](https://huggingface.co/learn/cookbook/fine_tuning_vlm_dpo_smolvlm_instruct)** - [PR](https://github.com/huggingface/cookbook/pull/255)
+  * **[Fine-tuning SmolVLM with TRL on a consumer GPU](https://huggingface.co/learn/cookbook/fine_tuning_smol_vlm_sft_trl)** - [PR](https://github.com/huggingface/cookbook/pull/246)
+  * **[Smol Multimodal RAG: Building with ColSmolVLM and SmolVLM on Colab’s Free-Tier GPU](https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_smol_vlm)** - [PR](https://github.com/huggingface/cookbook/pull/244)
+  * **[Multimodal RAG with ColQwen2, Reranker, and Quantized VLMs on Consumer GPUs](https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_reranker_and_vlms)** - [PR](https://github.com/huggingface/cookbook/pull/241)
   * **[Multi-agent RAG System 🤖🤝🤖](https://huggingface.co/learn/cookbook/multiagent_rag_system)** - [PR](https://github.com/huggingface/cookbook/pull/238)
   * **[Fine-Tuning a Vision Language Model (Qwen2-VL-7B) with the Hugging Face Ecosystem (TRL)](https://huggingface.co/learn/cookbook/fine_tuning_vlm_trl)** - [PR](https://github.com/huggingface/cookbook/pull/225)
   * **[Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs)](https://huggingface.co/learn/cookbook/multimodal_rag_using_document_retrieval_and_vlms)** — [PR](https://github.com/huggingface/cookbook/pull/210)
@@ -38,8 +44,6 @@ I am one of the top contributors to the following repositories:
 
 **Cookbook**
 
-* **Creating a cookbook for Multimodal Retrieval-Augmented Generation (RAG) with Document Retrieval (ColPali) and Vision Language Models (VLMs), incorporating reranking techniques.**
-* **Developing a recipe for training [Smol VLM](https://huggingface.co/blog/smolvlm) using TRL.**
 
 **TRL**
 
