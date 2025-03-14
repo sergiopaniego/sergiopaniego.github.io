@@ -110,6 +110,11 @@ hr {
     </thead>
     <tbody>
         <tr>
+            <td markdown="span">**Contributing to the Hugging Face ecosystem**</td>
+            <td markdown="span">Hugging Face Computer Vision Hangout, Remote</td>
+            <td markdown="span">Feb 2025</td>
+        </tr>
+        <tr>
             <td markdown="span">**Autonomous driving**</td>
             <td markdown="span">Robotics Software Engineering, Madrid</td>
             <td markdown="span">November 2024</td>
