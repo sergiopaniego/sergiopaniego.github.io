@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
-    gem 'httparty'
+    gem 'httparty', '~> 0.21.0'
     gem 'feedjira'
 end
 
@@ -31,3 +31,8 @@ gem 'nokogiri', '~> 1.16.5'
 # by html-pipeline (>= 2) via jemoji, so dependabot will otherwise propose
 # breaking bumps. Lift together with the nokogiri pin.
 gem 'activesupport', '~> 7.0.7'
+
+# Pinned: multi_xml >= 0.8 requires Ruby >= 3.2. Pulled in transitively
+# by httparty (>= 0.5.2), so it can cascade independently of the httparty
+# pin above. Lift together with the nokogiri pin.
+gem 'multi_xml', '~> 0.6.0'
