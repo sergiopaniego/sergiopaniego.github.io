@@ -36,3 +36,8 @@ gem 'activesupport', '~> 7.0.7'
 # by httparty (>= 0.5.2), so it can cascade independently of the httparty
 # pin above. Lift together with the nokogiri pin.
 gem 'multi_xml', '~> 0.6.0'
+
+# Pinned: public_suffix >= 7 requires Ruby >= 3.2. Pulled in transitively
+# by addressable, so dependabot will otherwise propose breaking bumps.
+# Lift together with the nokogiri pin.
+gem 'public_suffix', '~> 4.0.7'
