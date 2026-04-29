@@ -146,6 +146,7 @@ GEM
 
 PLATFORMS
   x86_64-linux
+  x86_64-linux-gnu
 
 DEPENDENCIES
   feedjira
@@ -168,4 +169,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.19
+   2.5.23
