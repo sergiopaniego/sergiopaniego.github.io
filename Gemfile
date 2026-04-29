@@ -41,3 +41,7 @@ gem 'multi_xml', '~> 0.6.0'
 # by addressable, so dependabot will otherwise propose breaking bumps.
 # Lift together with the nokogiri pin.
 gem 'public_suffix', '~> 4.0.7'
+
+# Bumped to 2.9.0 to fix GHSA-h27x-rffw-24p4 (ReDoS in Addressable
+# templates). public_suffix pin above caps the cascade at 4.x.
+gem 'addressable', '~> 2.9.0'

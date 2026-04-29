@@ -6,8 +6,8 @@ GEM
       i18n (>= 1.6, < 2)
       minitest (>= 5.1)
       tzinfo (~> 2.0)
-    addressable (2.8.0)
-      public_suffix (>= 2.0.2, < 5.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     bibtex-ruby (6.0.0)
       latex-decode (~> 0.0)
     citeproc (1.0.10)
@@ -149,6 +149,7 @@ PLATFORMS
 
 DEPENDENCIES
   activesupport (~> 7.0.7)
+  addressable (~> 2.9.0)
   feedjira
   httparty (~> 0.21.0)
   jekyll
