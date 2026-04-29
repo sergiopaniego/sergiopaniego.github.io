@@ -26,3 +26,8 @@ end
 # jekyll 4.2.2) calls String#tainted?, which Ruby 3.2 removed. Lifting
 # this pin requires upgrading jekyll/liquid as well.
 gem 'nokogiri', '~> 1.16.5'
+
+# Pinned: activesupport >= 7.2 requires Ruby >= 3.1. Pulled in transitively
+# by html-pipeline (>= 2) via jemoji, so dependabot will otherwise propose
+# breaking bumps. Lift together with the nokogiri pin.
+gem 'activesupport', '~> 7.0.7'
