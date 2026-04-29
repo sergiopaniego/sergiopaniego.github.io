@@ -24,6 +24,7 @@ GEM
     csl-styles (1.0.1.11)
       csl (~> 1.0)
     cssminify2 (2.0.1)
+    csv (3.3.5)
     em-websocket (0.5.3)
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0)
@@ -40,7 +41,8 @@ GEM
       nokogiri (>= 1.4)
     htmlcompressor (0.4.0)
     http_parser.rb (0.8.0)
-    httparty (0.21.0)
+    httparty (0.24.0)
+      csv
       mini_mime (>= 1.0.0)
       multi_xml (>= 0.5.2)
     i18n (1.14.1)
@@ -150,7 +152,7 @@ PLATFORMS
 DEPENDENCIES
   activesupport (~> 7.0.7)
   feedjira
-  httparty (~> 0.21.0)
+  httparty (~> 0.24.0)
   jekyll
   jekyll-archives
   jekyll-diagrams
