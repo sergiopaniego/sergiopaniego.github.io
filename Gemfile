@@ -18,7 +18,7 @@ group :jekyll_plugins do
     gem 'webrick'
 end
 group :other_plugins do
-    gem 'httparty', '~> 0.21.0'
+    gem 'httparty', '~> 0.24.0'
     gem 'feedjira'
 end
 
