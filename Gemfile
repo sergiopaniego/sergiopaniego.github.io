@@ -21,3 +21,8 @@ group :other_plugins do
     gem 'httparty'
     gem 'feedjira'
 end
+
+# Pinned: nokogiri >= 1.18 requires Ruby >= 3.2, but liquid 4.0.3 (via
+# jekyll 4.2.2) calls String#tainted?, which Ruby 3.2 removed. Lifting
+# this pin requires upgrading jekyll/liquid as well.
+gem 'nokogiri', '~> 1.16.5'
