@@ -25,7 +25,7 @@ end
 # Pinned: nokogiri >= 1.18 requires Ruby >= 3.2, but liquid 4.0.3 (via
 # jekyll 4.2.2) calls String#tainted?, which Ruby 3.2 removed. Lifting
 # this pin requires upgrading jekyll/liquid as well.
-gem 'nokogiri', '~> 1.16.5'
+gem 'nokogiri', '~> 1.19.3'
 
 # Pinned: activesupport >= 7.2 requires Ruby >= 3.1. Pulled in transitively
 # by html-pipeline (>= 2) via jemoji, so dependabot will otherwise propose
